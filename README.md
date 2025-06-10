@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+<h6 align="center">English</h6>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+I have successfully developed a Todo App website using ReactJS during my Frontend internship. This project marks my initial task, focusing on building a functional to-do application using ReactJS.
 
-## Available Scripts
+## Purpose
+### Target:
+- **Developing a Todo application**: To build a Todo app with ReactJS. React is a JavaScript library for building user interfaces, known for its efficiency and flexibility.
+- **Learning ReactJS**: To learn React concepts, including components, state management, props, event handling, and styling.
 
-In the project directory, you can run:
+### Benefits to society and related fields:
+- **Demonstrates project management**: Creating the Todo application demonstrates project management and organizational skills.
+- **Helps users organize daily tasks**: Todo applications allow users to add, edit, and delete tasks, as well as mark tasks as complete.
 
-### `npm start`
+### What did I learn from developing this project?
+#### Technical skills:
+- **ReactJS fundamentals**: Learned the fundamentals of React, including components, state management, and props.
+- **JSX**: Gained experience using JSX to define the structure of React components.
+- **Netlify**: Deployed the website on Netlify.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### Development mindset:
+- **Component-based architecture**: Understanding the benefits of React's component-based architecture for building modular and maintainable code.
+- **Problem-solving**: Applied problem-solving skills to overcome challenges during development.
+- **Attention to detail**: Paid close attention to detail to ensure the application functions correctly and provides a smooth user experience.
+- **Hands-on learning**: Gained experience by applying theoretical knowledge to a real-world project, reinforcing learning and boosting confidence.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo website: [Todo App](https://cthawngs-todo-app-reactjs.netlify.app/)
 
-### `npm test`
+## Conclusion:
+This Todo App project demonstrates my ability to apply ReactJS skills to build a practical web application. It showcases my understanding of React fundamentals, component-based architecture, and state management. This project marks an important step in my journey to becoming a proficient frontend developer and highlights my commitment to continuous learning and skill development.
+<br><br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+&nbsp;
+<h6 align="center">Tiếng Việt</h6>
 
-### `npm run build`
+# Tổng quan
+Tôi đã phát triển thành công một trang web Todo App bằng ReactJS trong quá trình thực tập Frontend của mình. Đây là nhiệm vụ đầu tiên của tôi, tập trung vào việc xây dựng một ứng dụng to-do hoạt động bằng ReactJS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Mục đích
+### Mục tiêu:
+- **Phát triển một ứng dụng Todo**: Để xây dựng một ứng dụng Todo bằng ReactJS. React là một thư viện JavaScript để xây dựng giao diện người dùng, được biết đến với hiệu quả và tính linh hoạt của nó.
+- **Học ReactJS**: Để học các khái niệm React, bao gồm components, state management, props, event handling, và styling.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Lợi ích cho xã hội và các lĩnh vực liên quan:
+- **Thể hiện kỹ năng quản lý dự án**: Tạo ứng dụng Todo thể hiện kỹ năng quản lý dự án và tổ chức.
+- **Giúp người dùng tổ chức các công việc hàng ngày**: Các ứng dụng Todo cho phép người dùng thêm, chỉnh sửa và xóa các nhiệm vụ, cũng như đánh dấu các nhiệm vụ là hoàn thành.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tôi đã học được gì từ việc phát triển dự án này?
+#### Kỹ năng kỹ thuật:
+- **Các nguyên tắc cơ bản của ReactJS**: Đã học các nguyên tắc cơ bản của React, bao gồm components, state management và props.
+- **JSX**: Có được kinh nghiệm sử dụng JSX để xác định cấu trúc của các React components.
+- **Netlify**: Triển khai trang web trên Netlify.
 
-### `npm run eject`
+#### Tư duy phát triển:
+- **Kiến trúc dựa trên components**: Hiểu các lợi ích của kiến trúc dựa trên components của React để xây dựng code mô-đun và dễ bảo trì.
+- **Giải quyết vấn đề**: Áp dụng các kỹ năng giải quyết vấn đề để vượt qua các thách thức trong quá trình phát triển.
+- **Chú ý đến chi tiết**: Chú ý đến chi tiết để đảm bảo ứng dụng hoạt động chính xác và cung cấp trải nghiệm người dùng mượt mà.
+- **Học tập thực tế**: Có được kinh nghiệm bằng cách áp dụng kiến thức lý thuyết vào một dự án thực tế, củng cố việc học và nâng cao sự tự tin.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Trang web demo: [Todo App](https://cthawngs-todo-app-reactjs.netlify.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Kết luận:
+Dự án Todo App này thể hiện khả năng của tôi trong việc áp dụng các kỹ năng ReactJS để xây dựng một website thực tế. Nó thể hiện sự hiểu biết của tôi về các nguyên tắc cơ bản của React, kiến trúc dựa trên components và quản lý trạng thái. Dự án này đánh dấu một bước quan trọng trong hành trình trở thành một nhà phát triển frontend thành thạo và nêu bật cam kết của tôi đối với việc học tập và phát triển kỹ năng liên tục.
