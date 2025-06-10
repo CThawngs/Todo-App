@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color: #666;
+}
+
+.todoWrapper {
+  max-width: 600px;
+  width: 100%;
+  background: #ffffff;
+  margin: 5rem 0px;
+  padding: 2rem;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  
+}
+
+.todoWrapper:hover {
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  transform: translateY(-5px);
+}
+
+.todoForm {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.todo-input {
+  outline: none;
+  background: none;
+  font-size: medium;
+  border: 1px solid #4378fd;
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  width: 350px;
+  color: #333;
+  border-radius: 15px;
+}
+
+.todo-input::placeholder {
+  color: #666;
+}
+
+.todo-btn {
+  background: #4378fd;
+  color: #fff;
+  border: none;
+  padding: 0.65rem;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-left: 10px;
+  transition: all 0.3s ease;
+}
+
+.todo-btn:hover {
+  background: #5c8aff;
+}
+
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  font-size: medium;
+  background: #ffffff;
+  color: #333;
+  padding: 0.75rem 1rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.todo:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  transform: translateY(-2px);
+}
+
+.fa-trash {
+  margin-left: 0.75rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.fa-pen-to-square {
+  margin: 0px 0.75rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.fa-trash:hover {
+  color: rgb(255, 43, 43);
+}
+
+.fa-pen-to-square:hover {
+  color: #4378fd;
+}
+
+.incompleted {
+  color: #fff;
+  cursor: pointer;
+}
+
+.completed {
+  color: #6c6c6c;
+  text-decoration: line-through;
+  cursor: pointer;
+}
+
+.edit-icon,
+.delete-icon {
+  cursor: pointer;
+}
