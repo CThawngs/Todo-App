@@ -27,7 +27,7 @@ I have successfully developed a Todo App website using ReactJS during my Fronten
 ## Demo website: [Todo App](https://cthawngs-todo-app-reactjs.netlify.app/)
 
 ## Conclusion:
-This Todo App project demonstrates my ability to apply ReactJS skills to build a practical web application. It showcases my understanding of React fundamentals, component-based architecture, and state management. This project marks an important step in my journey to becoming a proficient frontend developer and highlights my commitment to continuous learning and skill development.
+Dự án Todo App này thể hiện khả năng của tôi trong việc áp dụng các kỹ năng ReactJS để xây dựng một website thực tế. Nó thể hiện sự hiểu biết của tôi về các nguyên tắc cơ bản của React, kiến trúc dựa trên components và quản lý trạng thái. Dự án này đánh dấu một bước quan trọng trong hành trình trở thành một nhà phát triển frontend thành thạo và nêu bật cam kết của tôi đối với việc học tập và phát triển kỹ năng liên tục.
 <br><br>
 
 &nbsp;

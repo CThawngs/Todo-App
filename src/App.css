@@ -48,7 +48,7 @@ p {
 
 .todoForm {
   width: 100%;
-  margin: 1.5rem 0px;
+  margin-bottom: 1.5rem;
 }
 
 .todo-input {
@@ -57,7 +57,7 @@ p {
   font-size: medium;
   border: 1px solid #4378fd;
   padding: 0.5rem 1rem;
-  margin-top: 0.5rem;
+  margin-top: 2rem;
   margin-bottom: 1.5rem;
   width: 350px;
   color: #333;
