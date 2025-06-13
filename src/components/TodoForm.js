@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 // Function to validate input
 export const validateInput = (input) => {
   // Regex to check for special characters
-  const specialCharRegex = /[!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?]+/;
+  const specialCharRegex = /[!@#$%^&*()_+\-=[\]{};':"\\|,.<>/?]+/;
   
   // Check for empty input
   if (!input.trim()) {
